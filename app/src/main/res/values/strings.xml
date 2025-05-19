@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyWeatherApp</string>
+    <string name="weather_info">Weather Info</string>
+    <string name="back_to_welcome_screen">Back to Welcome Screen</string>
+    <string name="average_temp">Average Temp</string>
+    <string name="weekly_maximum_temperatures">Weekly Maximum Temperatures</string>
+    <string name="average_max_temperature_c">Average Max Temperature: --°C</string>
+    <string name="back_to_welcome">Back to Welcome</string>
+    <string name="simpleweather">SimpleWeather</string>
+    <string name="app_logo">App Logo</string>
+    <string name="iness_pechera">iness pechera</string>
+    <string name="view_weather">View Weather</string>
+    <string name="st10493837">st10493837</string>
+</resources>
